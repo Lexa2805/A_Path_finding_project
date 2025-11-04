@@ -7,8 +7,6 @@ Quadtree (Adaptive Decomposition)
 
 Users can interactively create maps with obstacles, choose their preferred decomposition method, and visualize the optimal path found by the A* (A-star) algorithm.
 
-![Demo GIF showing map editing and path finding] (Suggestion: Replace this line with a GIF or screenshot of your application in action!)
-
 🚀 Features
 Interactive Map Editor:
 
@@ -49,19 +47,6 @@ heapq: For the efficient priority queue required by the A* algorithm.
 
 🏃 How to Run
 No external libraries are required (Tkinter, threading, and heapq are part of the Python standard library).
-
-Clone the repository:
-
-Bash
-
-git clone https://github.com/your-username/your-repository-name.git
-cd your-repository-name
-Run the script:
-
-Bash
-
-python path_planner.py 
-(Replace path_planner.py with the name of your Python file)
 
 How to Use:
 
